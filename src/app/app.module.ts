@@ -3,11 +3,13 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { AppHeaderComponent } from './app-header/app-header.component';
+import { SearchAutocompleteComponent } from './search-autocomplete/search-autocomplete.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    AppHeaderComponent
+    AppHeaderComponent,
+    SearchAutocompleteComponent
   ],
   imports: [
     BrowserModule

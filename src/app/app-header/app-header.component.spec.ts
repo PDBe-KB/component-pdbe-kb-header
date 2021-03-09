@@ -2,7 +2,6 @@ import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { AppHeaderComponent } from './app-header.component';
 import {HeaderData, SummaryIcons} from './app-header.models';
-// import {SearchAutocompleteComponent} from '../search-autocomplete/search-autocomplete.component';
 import {Component} from '@angular/core';
 
 @Component({
