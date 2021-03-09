@@ -1,6 +1,9 @@
 PDBe-KB Header Component
 =
 
+[![Build Status](https://www.travis-ci.com/PDBe-KB/component-pdbe-kb-header.svg?branch=main)](https://www.travis-ci.com/PDBe-KB/component-pdbe-kb-header)
+[![Maintainability](https://api.codeclimate.com/v1/badges/55b0af0ca2064502aae5/maintainability)](https://codeclimate.com/github/PDBe-KB/component-pdbe-kb-header/maintainability)
+
 This is the repository of a lightweight Angular 7+ web component that provides a header/banner and some basic navigation.
 
 This component is used on the PDBe-KB Aggregated Views of Proteins and PDBe-KB Aggregated Views of Ligands.
