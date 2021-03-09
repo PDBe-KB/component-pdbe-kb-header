@@ -1,0 +1,13 @@
+.zero-count-icon, .zero-count-icon:hover {
+  background-color: #8a8a8a;
+  cursor: default;
+  opacity: 0.7;
+}
+
+.row {
+  max-width: 100%;
+}
+
+.masthead {
+  background-color: #085f5c;
+}
