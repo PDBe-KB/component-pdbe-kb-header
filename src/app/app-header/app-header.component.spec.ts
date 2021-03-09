@@ -6,7 +6,7 @@ import {Component} from '@angular/core';
 
 @Component({
   selector: 'search-autocomplete',
-  styleUrls: ['../search-autocomplete/search-autocomplete.component.css'],
+  styles: [''],
   template: '<html></html>'
 })
 class SearchAutocompleteComponent {}
