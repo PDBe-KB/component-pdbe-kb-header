@@ -70,7 +70,7 @@ export class AppModule { }
 
 ```
 
-Adding the pinging component to a template:
+Adding the component to a template:
 ```angular2html
 <app-header [data]="headerData"></app-header>
 ```
